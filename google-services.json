@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814486930541",
+    "project_id": "tales-and-stories",
+    "storage_bucket": "tales-and-stories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814486930541:android:d16e3d07b71d8c04f5ab64",
+        "android_client_info": {
+          "package_name": "com.mobiquest.talesandstories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814486930541-r11sfu0ejf0qegng6foci7q3rktt9vsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_tFtUtDfrsKEPEXiCbyHhOybIn1JFyjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814486930541-r11sfu0ejf0qegng6foci7q3rktt9vsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

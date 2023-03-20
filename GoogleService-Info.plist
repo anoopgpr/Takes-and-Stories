@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>814486930541-dd1lp2146m84uikenr31i342v04f9ppi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.814486930541-dd1lp2146m84uikenr31i342v04f9ppi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaYPurgtoMDBOjH9yB5Oa3yGDMuqHK1M4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>814486930541</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobiquest.talesandstories</string>
+	<key>PROJECT_ID</key>
+	<string>tales-and-stories</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tales-and-stories.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:814486930541:ios:445c23b97fddf642f5ab64</string>
+</dict>
+</plist>
